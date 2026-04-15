@@ -13,7 +13,9 @@
 
 Москва, Россия. Строю высоконагруженные сервисы и продуктовые платформы. Сейчас работаю в Rambler&Co, ранее — Avito, Lamoda. В последние годы глубоко погружён в AI-инжиниринг: мульти-агентные системы, LLM-пайплайны, RAG.
 
-[Портфолио](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergey-emelyanov-in-job/) · [Email](mailto:pochtasergeia@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Портфолио-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-emelyanov-in-job/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
 ### 🚀 Чем занимаюсь
 - **Backend-разработка** → Symfony, Laravel, Go-микросервисы, PostgreSQL, Redis, Kafka
@@ -45,9 +47,11 @@ React + TypeScript, тёмная тема, двуязычность.
 НИУ ВШЭ · Кубанский государственный университет · Ульяновский государственный технический университет
 
 ### 📫 Контакты
-[Сайт](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergey-emelyanov-in-job/) · [Email](mailto:pochtasergeia@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Сайт-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-emelyanov-in-job/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
-💼 **Открыт к remote-позициям в RU / EU / USA** — Senior Software Engineer (PHP/Go), Senior PHP Developer (Laravel, Symfony)
+💼 **Открыт к remote-позициям в RU / EU / USA** — Lead Backend Engineer, Team Lead PHP, Senior Software Engineer (PHP/Go), Senior PHP Developer (Laravel, Symfony)
 
 ---
 
@@ -58,7 +62,9 @@ React + TypeScript, тёмная тема, двуязычность.
 
 Based in Moscow, Russia. I build high-load services and product platforms. Currently at Rambler&Co, previously Avito and Lamoda. Recent years — deep focus on AI engineering: multi-agent systems, LLM pipelines, RAG.
 
-[Portfolio](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergey-emelyanov-in-job/) · [Email](mailto:pochtasergeia@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-emelyanov-in-job/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
 ### 🚀 What I Do
 - **Backend Development** → Symfony, Laravel, Go microservices, PostgreSQL, Redis, Kafka
@@ -90,6 +96,8 @@ React + TypeScript, dark theme, bilingual.
 HSE University · Kuban State University · Ulyanovsk State Technical University
 
 ### 📫 Let's Connect
-[Website](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergey-emelyanov-in-job/) · [Email](mailto:pochtasergeia@gmail.com)
+[![Website](https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-emelyanov-in-job/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
-💼 **Open to remote roles in RU / EU / USA** — Senior Software Engineer (PHP/Go), Senior PHP Developer (Laravel, Symfony)
+💼 **Open to remote roles in RU / EU / USA** — Lead Backend Engineer, Team Lead PHP, Senior Software Engineer (PHP/Go), Senior PHP Developer (Laravel, Symfony)
