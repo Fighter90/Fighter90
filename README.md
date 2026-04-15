@@ -51,7 +51,7 @@ React + TypeScript, тёмная тема, двуязычность.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-emelyanov-in-job/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
-💼 **Открыт к remote-позициям в RU / EU / USA** — Lead Backend Engineer, Team Lead PHP, Senior Software Engineer (PHP/Go), Senior PHP Developer (Laravel, Symfony)
+💼 **Открыт к remote-позициям в RU / EU / USA** — Tech Lead / Technical Lead, Lead Software Engineer / Lead Backend Engineer, Staff Engineer, Engineering Manager, Senior Software Engineer (PHP/Go), Senior PHP Developer (Laravel, Symfony)
 
 ---
 
@@ -100,4 +100,4 @@ HSE University · Kuban State University · Ulyanovsk State Technical University
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-emelyanov-in-job/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
-💼 **Open to remote roles in RU / EU / USA** — Lead Backend Engineer, Team Lead PHP, Senior Software Engineer (PHP/Go), Senior PHP Developer (Laravel, Symfony)
+💼 **Open to remote roles in RU / EU / USA** — Tech Lead / Technical Lead, Lead Software Engineer / Lead Backend Engineer, Staff Engineer, Engineering Manager, Senior Software Engineer (PHP/Go), Senior PHP Developer (Laravel, Symfony)
