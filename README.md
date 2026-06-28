@@ -24,10 +24,10 @@
 - **Продуктовая разработка** → от идеи до прода, включая интеграции и DevOps
 
 ### 🧰 Стек
-`PHP` `Go` `Python` `Symfony` `Laravel` `FastAPI` `PostgreSQL` `Redis` `Kafka` `Docker` `Kubernetes` `React` `TypeScript` `Claude` `OpenAI` `n8n`
+`PHP` `Go` `Symfony` `Laravel` `PostgreSQL` `MySQL` `Redis` `Kafka` `Docker` `Kubernetes` `React` `TypeScript` `Claude` `OpenAI` `n8n`
 
 ### 🎓 Образование
-НИУ ВШЭ · Кубанский государственный университет · Ульяновский государственный технический университет
+НИУ ВШЭ · Ульяновский государственный технический университет
 
 ### 📫 Контакты
 [![Portfolio](https://img.shields.io/badge/Сайт-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
@@ -56,10 +56,10 @@ Based in Moscow, Russia. I build high-load services and product platforms. Curre
 - **Product Delivery** → from idea to production, including integrations and DevOps
 
 ### 🧰 Tech Stack
-`PHP` `Go` `Python` `Symfony` `Laravel` `FastAPI` `PostgreSQL` `Redis` `Kafka` `Docker` `Kubernetes` `React` `TypeScript` `Claude` `OpenAI` `n8n`
+`PHP` `Go` `Symfony` `Laravel` `PostgreSQL` `MySQL` `Redis` `Kafka` `Docker` `Kubernetes` `React` `TypeScript` `Claude` `OpenAI` `n8n`
 
 ### 🎓 Education
-HSE University · Kuban State University · Ulyanovsk State Technical University
+HSE University · Ulyanovsk State Technical University
 
 ### 📫 Let's Connect
 [![Website](https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
