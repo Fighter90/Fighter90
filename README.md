@@ -24,7 +24,7 @@
 - **Продуктовая разработка** → от идеи до прода, включая интеграции и DevOps
 
 ### 🧰 Стек
-`PHP` `Go` `Symfony` `Laravel` `PostgreSQL` `MySQL` `Redis` `Kafka` `Docker` `Kubernetes` `React` `TypeScript` `Claude` `OpenAI` `n8n`
+`PHP` `Go` `Symfony` `Laravel` `PostgreSQL` `MySQL` `Redis` `MongoDb` `Kafka` `Docker` `Kubernetes` `React` `TypeScript` `Claude` `OpenAI` `n8n`
 
 ### 🎓 Образование
 НИУ ВШЭ · Ульяновский государственный технический университет
@@ -56,7 +56,7 @@ Based in Moscow, Russia. I build high-load services and product platforms. Curre
 - **Product Delivery** → from idea to production, including integrations and DevOps
 
 ### 🧰 Tech Stack
-`PHP` `Go` `Symfony` `Laravel` `PostgreSQL` `MySQL` `Redis` `Kafka` `Docker` `Kubernetes` `React` `TypeScript` `Claude` `OpenAI` `n8n`
+`PHP` `Go` `Symfony` `Laravel` `PostgreSQL` `MySQL` `Redis` `MongoDb` `Kafka` `Docker` `Kubernetes` `React` `TypeScript` `Claude` `OpenAI` `n8n`
 
 ### 🎓 Education
 HSE University · Ulyanovsk State Technical University
