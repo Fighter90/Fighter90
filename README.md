@@ -7,7 +7,7 @@
 
 # Привет, я Сергей 👋
 
-**Senior Software Engineer · PHP / Go · 14+ лет в проде **
+**Senior Software Engineer · PHP / Go · 14+ лет в проде**
 
 14+ лет строю высоконагруженные сервисы и продуктовые платформы: Rambler&Co (сейчас), ранее — Avito, Lamoda, МТС Финтех, ЭТП Газпромбанка. Последние годы — глубоко в AI-инжиниринге: мульти-агентные системы, LLM-пайплайны, RAG. Учусь в магистратуре НИУ ВШЭ «Управление продуктом в ИТ-бизнесе».
 
@@ -73,7 +73,7 @@
 
 # Hey, I'm Sergey 👋
 
-**Senior Software Engineer · PHP / Go · 14+ years shipping to production **
+**Senior Software Engineer · PHP / Go · 14+ years shipping to production**
 
 14+ years building high-load services and product platforms: Rambler&Co (now), previously Avito, Lamoda, MTS Fintech, ETP Gazprombank. Recent years — deep focus on AI engineering: multi-agent systems, LLM pipelines, RAG. Pursuing a Master's in IT Product Management at HSE University.
 
