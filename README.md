@@ -7,9 +7,7 @@
 
 # Привет, я Сергей 👋
 
-**Senior Software Engineer · PHP / Go · 14+ лет в проде · Создатель [career-ops-ui](https://github.com/Fighter90/career-ops-ui)**
-
-> Компании фильтруют кандидатов с помощью AI. Я дал кандидатам AI, чтобы выбирать компании.
+**Senior Software Engineer · PHP / Go · 14+ лет в проде **
 
 14+ лет строю высоконагруженные сервисы и продуктовые платформы: Rambler&Co (сейчас), ранее — Avito, Lamoda, МТС Финтех, ЭТП Газпромбанка. Последние годы — глубоко в AI-инжиниринге: мульти-агентные системы, LLM-пайплайны, RAG. Учусь в магистратуре НИУ ВШЭ «Управление продуктом в ИТ-бизнесе».
 
@@ -24,7 +22,7 @@
 
 ## 🏆 Ключевые проекты
 
-**[career-ops-ui](https://github.com/Fighter90/career-ops-ui)** — open-source веб-платформа для AI-пайплайна поиска работы [career-ops](https://github.com/santifer/career-ops): сканирование порталов (Greenhouse / Ashby / Lever / hh.ru / Habr Career + RSS), AI-оценка вакансий по рубрике 0–5, deep-research компаний, генерация сопроводительных и PDF-резюме. **6 LLM-провайдеров, 12 локалей (вкл. RTL), 1134 автотеста (~96% coverage), CI на Node 18/20/22**, zero-build SPA + Express, SSRF/XSS-защита.
+**[career-ops-ui](https://github.com/Fighter90/career-ops-ui)** — open-source веб-платформа для AI-пайплайна поиска работы: сканирование порталов (Greenhouse / Ashby / Lever / hh.ru / Habr Career + RSS), AI-оценка вакансий по рубрике 0–5, deep-research компаний, генерация сопроводительных и PDF-резюме. **6 LLM-провайдеров, 12 локалей (вкл. RTL), 1134 автотеста (~96% coverage), CI на Node 18/20/22**, zero-build SPA + Express, SSRF/XSS-защита.
 
 **[AliceBot.pro](https://fighter90.github.io/)** — SaaS-конструктор навыков Яндекс.Алисы с мультиплатформенным ядром (Алиса + Telegram + Viber + Facebook): визуальный конструктор диалогов, 20+ ORM-моделей, биллинг через Robokassa. Флагман моей студии Webguru.pro (CTO & co-founder, 2017–2020, **50+ проектов** для AB InBev, Мегафона, Alliance Retail Group).
 
@@ -75,9 +73,7 @@
 
 # Hey, I'm Sergey 👋
 
-**Senior Software Engineer · PHP / Go · 14+ years shipping to production · Creator of [career-ops-ui](https://github.com/Fighter90/career-ops-ui)**
-
-> Companies use AI to filter candidates. I gave candidates AI to choose companies.
+**Senior Software Engineer · PHP / Go · 14+ years shipping to production **
 
 14+ years building high-load services and product platforms: Rambler&Co (now), previously Avito, Lamoda, MTS Fintech, ETP Gazprombank. Recent years — deep focus on AI engineering: multi-agent systems, LLM pipelines, RAG. Pursuing a Master's in IT Product Management at HSE University.
 
@@ -92,7 +88,7 @@
 
 ## 🏆 Highlighted Work
 
-**[career-ops-ui](https://github.com/Fighter90/career-ops-ui)** — open-source web platform for the [career-ops](https://github.com/santifer/career-ops) AI job-search pipeline: job-board scanning (Greenhouse / Ashby / Lever / hh.ru / Habr Career + RSS), AI evaluation on a 0–5 rubric, company deep-research, cover-letter and PDF résumé generation. **6 LLM providers, 12 locales (incl. RTL), 1,134 automated tests (~96% coverage), CI on Node 18/20/22**, zero-build SPA + Express, SSRF/XSS hardening.
+**[career-ops-ui](https://github.com/Fighter90/career-ops-ui)** — open-source web platform for the [career-ops] AI job-search pipeline: job-board scanning (Greenhouse / Ashby / Lever / hh.ru / Habr Career + RSS), AI evaluation on a 0–5 rubric, company deep-research, cover-letter and PDF résumé generation. **6 LLM providers, 12 locales (incl. RTL), 1,134 automated tests (~96% coverage), CI on Node 18/20/22**, zero-build SPA + Express, SSRF/XSS hardening.
 
 **[AliceBot.pro](https://fighter90.github.io/)** — SaaS skill builder for Yandex's Alice voice assistant with a multi-platform core (Alice + Telegram + Viber + Facebook): visual dialogue builder, 20+ ORM models, Robokassa billing. Flagship of my studio Webguru.pro (CTO & co-founder, 2017–2020, **50+ projects** for AB InBev, MegaFon, Alliance Retail Group).
 
