@@ -71,7 +71,7 @@
 
 ## 🇬🇧 English
 
-# Hey, I'm Sergey 👋
+# Hey, I'm Sergei 👋
 
 **Senior Software Engineer · PHP / Go · 14+ years shipping to production**
 
