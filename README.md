@@ -11,7 +11,7 @@
 
 14+ лет строю высоконагруженные сервисы и продуктовые платформы: Rambler&Co (сейчас), ранее — Avito, Lamoda, МТС Финтех, ЭТП Газпромбанка. Последние годы — глубоко в AI-инжиниринге: мульти-агентные системы, LLM-пайплайны, RAG. Учусь в магистратуре НИУ ВШЭ «Управление продуктом в ИТ-бизнесе».
 
-[Портфолио](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergey-emelyanov-in-job/)
+[Портфолио](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
 
 ## 🚀 Что я делаю
 
@@ -60,7 +60,7 @@
 ## 📫 Контакты
 
 [![Portfolio](https://img.shields.io/badge/fighter90.github.io-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-emelyanov-in-job/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergei-emelianov-in-job/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
 ---
@@ -77,7 +77,7 @@
 
 14+ years building high-load services and product platforms: Rambler&Co (now), previously Avito, Lamoda, MTS Fintech, ETP Gazprombank. Recent years — deep focus on AI engineering: multi-agent systems, LLM pipelines, RAG. Pursuing a Master's in IT Product Management at HSE University.
 
-[Portfolio](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergey-emelyanov-in-job/)
+[Portfolio](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
 
 ## 🚀 What I Ship
 
@@ -126,7 +126,7 @@
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/fighter90.github.io-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-emelyanov-in-job/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergei-emelianov-in-job/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
 ---
