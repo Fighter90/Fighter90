@@ -7,9 +7,9 @@
 
 # Привет, я Сергей 👋
 
-**Senior Software Engineer · PHP / Go · 14+ лет в проде**
+**Team Lead / Tech Lead · PHP / Go · 15 лет в проде**
 
-14+ лет строю высоконагруженные сервисы и продуктовые платформы: Rambler&Co (сейчас), ранее — Avito, Lamoda, МТС Финтех, ЭТП Газпромбанка. Последние годы — глубоко в AI-инжиниринге: мульти-агентные системы, LLM-пайплайны, RAG. Учусь в магистратуре НИУ ВШЭ «Управление продуктом в ИТ-бизнесе».
+Hands-on Tech Lead: веду команду и сам проектирую архитектуру. Сейчас — техлид в Rambler&Co (команда из 10 человек, 3 backend-разработчика в прямом подчинении, перенос PHP-монолита на микросервисы Go). Ранее — Team Lead в МТС Финтех, CTO собственной студии, Avito, Lamoda, ЭТП Газпромбанка. Последние годы — глубоко в AI-инжиниринге: мульти-агентные системы, LLM-пайплайны, RAG. Учусь в магистратуре НИУ ВШЭ «Управление продуктом в ИТ-бизнесе».
 
 [Портфолио](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
 
@@ -65,7 +65,7 @@
 
 ---
 
-💼 **Сейчас:** Rambler&Co · Развиваю career-ops-ui в open source · Открыт к remote-ролям в RU / EU / USA — Tech Lead / Team Lead, Lead Backend Engineer, Staff Engineer, Engineering Manager, Senior Software Engineer (PHP/Go)
+💼 **Сейчас:** Rambler&Co · Развиваю career-ops-ui в open source · Ищу роль Tech Lead / Team Lead (PHP, Go) в продуктовой команде 3–8 человек — удалённо или гибрид
 
 ---
 
@@ -73,9 +73,9 @@
 
 # Hey, I'm Sergei 👋
 
-**Senior Software Engineer · PHP / Go · 14+ years shipping to production**
+**Team Lead / Tech Lead · PHP / Go · 15 years shipping to production**
 
-14+ years building high-load services and product platforms: Rambler&Co (now), previously Avito, Lamoda, MTS Fintech, ETP Gazprombank. Recent years — deep focus on AI engineering: multi-agent systems, LLM pipelines, RAG. Pursuing a Master's in IT Product Management at HSE University.
+Hands-on Tech Lead: I lead the team and design the architecture myself. Currently tech lead at Rambler&Co (10-person team, 3 backend engineers reporting directly, moving a PHP monolith to Go microservices). Previously Team Lead at MTS Fintech, CTO of my own studio, Avito, Lamoda, ETP Gazprombank. Recent years — deep focus on AI engineering: multi-agent systems, LLM pipelines, RAG. Pursuing a Master's in IT Product Management at HSE University.
 
 [Portfolio](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
 
@@ -131,4 +131,4 @@
 
 ---
 
-💼 **Currently:** Rambler&Co · Building career-ops-ui in the open · Open to remote roles in RU / EU / USA — Tech Lead / Team Lead, Lead Backend Engineer, Staff Engineer, Engineering Manager, Senior Software Engineer (PHP/Go)
+💼 **Currently:** Rambler&Co · Building career-ops-ui in the open · Looking for a Tech Lead / Team Lead (PHP, Go) role in a product team of 3–8 — remote or hybrid
