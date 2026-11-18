@@ -11,7 +11,7 @@
 
 Hands-on Tech Lead: веду команду и сам проектирую архитектуру. Сейчас — техлид в Rambler&Co (команда из 10 человек, 3 backend-разработчика в прямом подчинении, перенос PHP-монолита на микросервисы Go). Ранее — Team Lead в МТС Финтех, CTO собственной студии, Avito, Lamoda, ЭТП Газпромбанка. Последние годы — глубоко в AI-инжиниринге: мульти-агентные системы, LLM-пайплайны, RAG. Учусь в магистратуре НИУ ВШЭ «Управление продуктом в ИТ-бизнесе».
 
-[Портфолио](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
+[Сайт-резюме](https://sergey-cv.com/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
 
 ## 🚀 Что я делаю
 
@@ -22,13 +22,17 @@ Hands-on Tech Lead: веду команду и сам проектирую ар�
 
 ## 🏆 Ключевые проекты
 
-**[career-ops-ui](https://github.com/Fighter90/career-ops-ui)** — опенсорсная веб-платформа для AI-пайплайна поиска работы [career-ops]: скан 82 job-бордов и ATS (Greenhouse / Ashby / Lever / Workday / hh.ru / Habr Career + региональные борды Канады, Сингапура и Сенегала), AI-оценка вакансии по рубрике 0–5 с проверкой на скам и ghost job, глубокий ресёрч компании, сопроводительные письма и тейлор-резюме в PDF. Внутри: проверка «жива ли вакансия» через публичные API самих бордов, fact-check гейт, который ловит выдуманные метрики до отправки резюме, трекер откликов с журналом итогов и аналитика воронки. 7 LLM-провайдеров в одном каскаде и честный copy-paste промт, когда ключа нет. 17 локалей (включая RTL), 2 724 автотеста, CI на Node 18/20/22, SPA без сборки + Express, сквозная защита от SSRF/XSS.
+**[CVStart — career-ops-ui](https://github.com/Fighter90/career-ops-ui)** · [cvstart.org](https://cvstart.org/ru/) — опенсорсный командный центр поиска работы поверх AI-пайплайна career-ops: одна кнопка сканирует 140+ источников вакансий (Greenhouse, Ashby, Lever, Workday, SmartRecruiters, hh.ru, Хабр Карьера…), AI-оценка вакансии по вашему CV на шкале 0.0–5.0, глубокий ресёрч компании, CV Studio (адаптация резюме и cover letter, skill-gap, проверка фактов), трекер откликов, mock-интервью и карта вакансий. Всё локально (127.0.0.1), 18 LLM-провайдеров со своим ключом или режим без ключа, 19 языков интерфейса, 8 500+ автотестов, MIT. Featured на Product Hunt.
 
-**[AliceBot.pro](https://fighter90.github.io/)** — SaaS-конструктор навыков Яндекс.Алисы с мультиплатформенным ядром (Алиса + Telegram + Viber + Facebook): визуальный конструктор диалогов, 20+ ORM-моделей, биллинг через Robokassa. Флагман моей студии Webguru.pro (CTO & co-founder, 2017–2020, **50+ проектов** для AB InBev, Мегафона, Alliance Retail Group).
+**[Стратег](https://github.com/Fighter90/product-factory-strategist-agent)** · [strategyproduct.ru](https://strategyproduct.ru/) — открытый ИИ-агент для руководителя продукта: 12 шагов от размытого запроса к стратегии, которую можно проверить. Реестр доказательств (у каждого числа есть источник и оценка A–D), red team по вариантам, Excel-модели с формулами, six-pager для комитета на двух языках, мониторинг решения после выбора. 101 skill, 8 субагентов, 6 хуков, Python CLI/MCP без внешних зависимостей, 874 теста.
 
-**[HR-бот скрининга](https://fighter90.github.io/)** — автоматизация первичного отбора кандидатов для ритейл-сетей: QR-код на входе в магазин → анкета в мессенджере → карточка кандидата на e-mail филиала. **Экономия 50–70% времени рекрутинга**; благодарности HR-директоров МегаФон Ритейл и Alliance Retail Security.
+**[ProductCamp Analytics](https://github.com/Fighter90/ai-product-copilot)** · [dashboardcamp.ru](https://dashboardcamp.ru/) — аналитический кабинет трека «Конверсии и лидген» ProductCamp: Яндекс.Метрика → SQLite → веб-кабинет с ролями и аудитом, real-time воронка «визит → заявка → оплата», отчёты DOCX/PDF по ГОСТ с AI-гипотезами по ICE, RAG-ассистент по справке. TypeScript, Fastify, React, ECharts; каждое число прослеживается до сырого ответа API.
 
-**[ARS — чат-горячая линия](https://fighter90.github.io/)** — real-time чат 24/7: Angular 5 + Socket.IO + Node.js + Yii2, эскалация на живого оператора, 3 параллельных сценария маршрутизации.
+**[AliceBot.pro](https://sergey-cv.com/#portfolio)** — SaaS-конструктор навыков Яндекс.Алисы с мультиплатформенным ядром (Алиса + Telegram + Viber + Facebook): визуальный конструктор диалогов, 20+ ORM-моделей, биллинг через Robokassa. Флагман моей студии Webguru.pro (CTO & co-founder, 2017–2020, **50+ проектов** для AB InBev, Мегафона, Alliance Retail Group).
+
+**[HR-бот скрининга](https://sergey-cv.com/#portfolio)** — автоматизация первичного отбора кандидатов для ритейл-сетей: QR-код на входе в магазин → анкета в мессенджере → карточка кандидата на e-mail филиала. **Экономия 50–70% времени рекрутинга**; благодарности HR-директоров МегаФон Ритейл и Alliance Retail Security.
+
+**[ARS — чат-горячая линия](https://sergey-cv.com/#portfolio)** — real-time чат 24/7: Angular 5 + Socket.IO + Node.js + Yii2, эскалация на живого оператора, 3 параллельных сценария маршрутизации.
 
 ## 🛠 Стек
 
@@ -55,11 +59,11 @@ Hands-on Tech Lead: веду команду и сам проектирую ар�
 
 **УлГТУ** → инженер, «Информационные системы и технологии» (2007–2012)
 
-**Сертификаты** → ICAIMT 2026 — International Conference on AI Management and Trends · Podlodka AI Crew #3: AI-First Development
+**Сертификаты** → Podlodka Techlead Crew #11 · Podlodka Go Crew #7 · Agents Week ШАД Яндекса · доклад на DMI 2026, статья на ICAIMT 2026
 
 ## 📫 Контакты
 
-[![Portfolio](https://img.shields.io/badge/fighter90.github.io-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
+[![Portfolio](https://img.shields.io/badge/sergey--cv.com-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://sergey-cv.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergei-emelianov-in-job/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
@@ -77,7 +81,7 @@ Hands-on Tech Lead: веду команду и сам проектирую ар�
 
 Hands-on Tech Lead: I lead the team and design the architecture myself. Currently tech lead at Rambler&Co (10-person team, 3 backend engineers reporting directly, moving a PHP monolith to Go microservices). Previously Team Lead at MTS Fintech, CTO of my own studio, Avito, Lamoda, ETP Gazprombank. Recent years — deep focus on AI engineering: multi-agent systems, LLM pipelines, RAG. Pursuing a Master's in IT Product Management at HSE University.
 
-[Portfolio](https://fighter90.github.io/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
+[CV site](https://sergey-cv.com/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
 
 ## 🚀 What I Ship
 
@@ -88,13 +92,17 @@ Hands-on Tech Lead: I lead the team and design the architecture myself. Currentl
 
 ## 🏆 Highlighted Work
 
-**[career-ops-ui](https://github.com/Fighter90/career-ops-ui)** — open-source web platform for the [career-ops] AI job-search pipeline: scanning 82 job boards and ATS platforms (Greenhouse / Ashby / Lever / Workday / hh.ru / Habr Career + regional boards across Canada, Singapore and Senegal), AI evaluation on a 0–5 rubric with scam and ghost-job detection, company deep-research, cover letters and tailored PDF résumés. Ships an ATS liveness check that asks each board's own public API whether a posting is still open, a fact-check gate that blocks invented metrics before a generated CV goes out, an application tracker with an append-only outcome journal, and funnel analytics. 7 LLM providers behind one cascade with an honest copy-paste fallback when no key is set. 17 locales (incl. RTL), 2,724 automated tests, CI on Node 18/20/22, zero-build SPA + Express, SSRF/XSS hardening throughout.
+**[CVStart — career-ops-ui](https://github.com/Fighter90/career-ops-ui)** · [cvstart.org](https://cvstart.org/) — open-source job search command center on top of the career-ops AI pipeline: one button scans 140+ job sources (Greenhouse, Ashby, Lever, Workday, SmartRecruiters, hh.ru, Habr Career…), AI fit scoring against your CV on a 0.0–5.0 rubric, company deep research, CV Studio (tailored resume and cover letter, skill gap, fact verification), application tracker, mock interviews and a job map. Fully local (127.0.0.1), 18 bring-your-own-key LLM providers or keyless mode, 19 UI languages, 8,500+ automated tests, MIT. Featured on Product Hunt.
 
-**[AliceBot.pro](https://fighter90.github.io/)** — SaaS skill builder for Yandex's Alice voice assistant with a multi-platform core (Alice + Telegram + Viber + Facebook): visual dialogue builder, 20+ ORM models, Robokassa billing. Flagship of my studio Webguru.pro (CTO & co-founder, 2017–2020, **50+ projects** for AB InBev, MegaFon, Alliance Retail Group).
+**[Strategist](https://github.com/Fighter90/product-factory-strategist-agent)** · [strategyproduct.ru](https://strategyproduct.ru/en/) — open AI agent for product directors: 12 steps from a vague request to a strategy you can verify. Evidence registry (every number has a source and an A–D grade), red-teamed options, Excel models with formulas, a bilingual committee six-pager, decision monitoring after the choice. 101 skills, 8 subagents, 6 hooks, dependency-free Python CLI/MCP, 874 tests.
 
-**[HR screening bot](https://fighter90.github.io/)** — first-stage candidate screening automation for retail chains: a QR code at the store entrance → application form in the messenger → candidate card delivered to the branch e-mail. **50–70% recruiting-time savings**; testimonials from HR directors of MegaFon Retail and Alliance Retail Security.
+**[ProductCamp Analytics](https://github.com/Fighter90/ai-product-copilot)** · [dashboardcamp.ru](https://dashboardcamp.ru/) — analytics cabinet for the ProductCamp "Conversions & lead-gen" track: Yandex Metrika → SQLite → role-based web cabinet with an audit log, a real-time visit → application → payment funnel, GOST-formatted DOCX/PDF reports with ICE-scored AI hypotheses, and a RAG assistant over the help center. TypeScript, Fastify, React, ECharts; every number traces back to a raw API response.
 
-**[ARS — live chat hotline](https://fighter90.github.io/)** — 24/7 real-time chat: Angular 5 + Socket.IO + Node.js + Yii2, escalation to a live operator, 3 parallel routing scenarios.
+**[AliceBot.pro](https://sergey-cv.com/#portfolio)** — SaaS skill builder for Yandex's Alice voice assistant with a multi-platform core (Alice + Telegram + Viber + Facebook): visual dialogue builder, 20+ ORM models, Robokassa billing. Flagship of my studio Webguru.pro (CTO & co-founder, 2017–2020, **50+ projects** for AB InBev, MegaFon, Alliance Retail Group).
+
+**[HR screening bot](https://sergey-cv.com/#portfolio)** — first-stage candidate screening automation for retail chains: a QR code at the store entrance → application form in the messenger → candidate card delivered to the branch e-mail. **50–70% recruiting-time savings**; testimonials from HR directors of MegaFon Retail and Alliance Retail Security.
+
+**[ARS — live chat hotline](https://sergey-cv.com/#portfolio)** — 24/7 real-time chat: Angular 5 + Socket.IO + Node.js + Yii2, escalation to a live operator, 3 parallel routing scenarios.
 
 ## 🛠 Tech Stack
 
@@ -121,11 +129,11 @@ Hands-on Tech Lead: I lead the team and design the architecture myself. Currentl
 
 **Ulyanovsk State Technical University** → Engineer's Degree, Information Systems and Technologies (2007–2012)
 
-**Certifications** → ICAIMT 2026 — International Conference on AI Management and Trends · Podlodka AI Crew #3: AI-First Development
+**Certifications** → Podlodka Techlead Crew #11 · Podlodka Go Crew #7 · Agents Week, Yandex School of Data Analysis · talk at DMI 2026, paper at ICAIMT 2026
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/fighter90.github.io-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://fighter90.github.io/)
+[![Portfolio](https://img.shields.io/badge/sergey--cv.com-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://sergey-cv.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergei-emelianov-in-job/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pochtasergeia@gmail.com)
 
