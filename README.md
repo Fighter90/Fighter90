@@ -9,7 +9,7 @@
 
 **Team Lead / Tech Lead · PHP / Go · 15 лет в проде**
 
-Hands-on Tech Lead: веду команду и сам проектирую архитектуру. 15 лет в backend высоконагруженных продуктов — от разработчика до техлида, тимлида и CTO. Строю микросервисную архитектуру, перевожу монолиты на Go, внедряю AI в процесс разработки: мульти-агентные системы, LLM-пайплайны, RAG. Сильные домены — платежи и биллинг, маркетплейсы и B2B-платформы, highload B2C и медиа. Учусь в магистратуре НИУ ВШЭ «Управление продуктом в ИТ-бизнесе».
+Hands-on Tech Lead: веду команду и сам проектирую архитектуру. 15 лет в backend высоконагруженных продуктов — от разработчика до техлида, тимлида и CTO. Работаю с PHP и Go, строю микросервисную архитектуру, внедряю AI в процесс разработки: мульти-агентные системы, LLM-пайплайны, RAG. Сильные домены — платежи и биллинг, маркетплейсы и B2B-платформы, highload B2C и медиа. Учусь в магистратуре НИУ ВШЭ «Управление продуктом в ИТ-бизнесе».
 
 [Сайт-резюме](https://sergey-cv.com/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
 
@@ -79,7 +79,7 @@ Hands-on Tech Lead: веду команду и сам проектирую ар�
 
 **Team Lead / Tech Lead · PHP / Go · 15 years shipping to production**
 
-Hands-on Tech Lead: I lead the team and design the architecture myself. 15 years in backend for high-load products — from engineer to tech lead, team lead and CTO. I build microservice architectures, move monoliths to Go and bring AI into the development process: multi-agent systems, LLM pipelines, RAG. Strongest domains: payments and billing, marketplaces and B2B platforms, high-load B2C and media. Pursuing a Master's in IT Product Management at HSE University.
+Hands-on Tech Lead: I lead the team and design the architecture myself. 15 years in backend for high-load products — from engineer to tech lead, team lead and CTO. I work with PHP and Go, build microservice architectures and bring AI into the development process: multi-agent systems, LLM pipelines, RAG. Strongest domains: payments and billing, marketplaces and B2B platforms, high-load B2C and media. Pursuing a Master's in IT Product Management at HSE University.
 
 [CV site](https://sergey-cv.com/) · [LinkedIn](https://linkedin.com/in/sergei-emelianov-in-job/)
 
